@@ -5,12 +5,90 @@
     <link>https://jamal-rudn.github.io/ru/tags/academic/</link>
       <atom:link href="https://jamal-rudn.github.io/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jamal-rudn.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Academic</title>
       <link>https://jamal-rudn.github.io/ru/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://jamal-rudn.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете была насыщенной и продуктивной. Я продолжил изучать дисциплины по направлению &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt; и получил много полезных знаний, которые помогут в будущей профессии.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях обсуждали, как &lt;strong&gt;информационные технологии используются в управлении бизнесом&lt;/strong&gt; и какие цифровые решения помогают компаниям развиваться быстрее.&lt;/li&gt;
+&lt;li&gt;📊 На практических занятиях разбирали &lt;strong&gt;основы анализа данных&lt;/strong&gt; и учились работать с информацией для принятия управленческих решений.&lt;/li&gt;
+&lt;li&gt;💻 Продолжил практиковаться в &lt;strong&gt;программировании&lt;/strong&gt;, выполняя небольшие задания и закрепляя базовые принципы написания кода.&lt;/li&gt;
+&lt;li&gt;📚 Изучал тему &lt;strong&gt;информационных систем в организациях&lt;/strong&gt; и понял, насколько важны такие системы для эффективной работы бизнеса.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над учебными заданиями вместе с одногруппниками — командная работа помогает быстрее находить решения и лучше понимать материал.&lt;/li&gt;
+&lt;li&gt;⚽ Постарался уделить время отдыху и спорту, чтобы поддерживать баланс между учебой и личной жизнью.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая учебная неделя дает новые знания и опыт. Постепенно я лучше понимаю сферу информационных технологий и их роль в современном бизнесе. Это мотивирует продолжать учиться и развивать свои навыки.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Непрерывное развертывание CI/CD</title>
+      <link>https://jamal-rudn.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-непрерывное-развертывание-cicd&#34;&gt;🚀 Непрерывное развертывание CI/CD&lt;/h2&gt;
+&lt;p&gt;Современная разработка программного обеспечения требует высокой скорости, надежности и автоматизации процессов. Одним из ключевых подходов, позволяющих этого достичь, является использование практики &lt;strong&gt;CI/CD (Continuous Integration / Continuous Deployment)&lt;/strong&gt; — непрерывной интеграции и непрерывного развертывания.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-cicd&#34;&gt;🔄 Что такое CI/CD&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;CI/CD&lt;/strong&gt; — это методология разработки, которая автоматизирует процессы тестирования, сборки и развертывания программного обеспечения.&lt;/p&gt;
+&lt;p&gt;Она состоит из двух основных частей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Integration (CI)&lt;/strong&gt; — непрерывная интеграция&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Continuous Deployment (CD)&lt;/strong&gt; — непрерывное развертывание&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти практики позволяют разработчикам чаще вносить изменения в код и быстрее доставлять новые версии продукта пользователям.&lt;/p&gt;
+&lt;h2 id=&#34;-continuous-integration-ci&#34;&gt;⚙️ Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;Непрерывная интеграция предполагает, что разработчики регулярно добавляют изменения в общий репозиторий проекта. После каждого обновления автоматически запускаются процессы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;сборка проекта&lt;/li&gt;
+&lt;li&gt;автоматическое тестирование&lt;/li&gt;
+&lt;li&gt;проверка качества кода&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Если система обнаруживает ошибки, разработчик получает уведомление и может быстро исправить проблему.&lt;/p&gt;
+&lt;p&gt;Преимущества CI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;уменьшение количества ошибок в коде&lt;/li&gt;
+&lt;li&gt;быстрое обнаружение проблем&lt;/li&gt;
+&lt;li&gt;стабильная работа проекта&lt;/li&gt;
+&lt;li&gt;упрощение совместной работы команды&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-continuous-deployment-cd&#34;&gt;📦 Continuous Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Непрерывное развертывание&lt;/strong&gt; — это следующий этап автоматизации. После успешного прохождения тестов новая версия приложения автоматически разворачивается на сервере или в облачной среде.&lt;/p&gt;
+&lt;p&gt;Таким образом, пользователи получают обновления практически сразу после их разработки.&lt;/p&gt;
+&lt;p&gt;Преимущества CD:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;быстрая доставка новых функций&lt;/li&gt;
+&lt;li&gt;уменьшение времени между разработкой и выпуском продукта&lt;/li&gt;
+&lt;li&gt;повышение качества программного обеспечения&lt;/li&gt;
+&lt;li&gt;упрощение процесса выпуска обновлений&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-инструменты-для-cicd&#34;&gt;🛠 Инструменты для CI/CD&lt;/h2&gt;
+&lt;p&gt;Для реализации CI/CD используются специальные инструменты автоматизации. Среди наиболее популярных:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Actions&lt;/li&gt;
+&lt;li&gt;GitLab CI/CD&lt;/li&gt;
+&lt;li&gt;Jenkins&lt;/li&gt;
+&lt;li&gt;CircleCI&lt;/li&gt;
+&lt;li&gt;Travis CI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти системы помогают автоматизировать сборку, тестирование и развертывание приложений.&lt;/p&gt;
+&lt;h2 id=&#34;-значение-cicd-в-современной-разработке&#34;&gt;📈 Значение CI/CD в современной разработке&lt;/h2&gt;
+&lt;p&gt;Использование CI/CD стало важной частью культуры &lt;strong&gt;DevOps&lt;/strong&gt;. Оно помогает ускорить разработку программных продуктов, повысить стабильность систем и улучшить взаимодействие между разработчиками и администраторами.&lt;/p&gt;
+&lt;p&gt;В условиях постоянного развития технологий и высокой конкуренции компании стремятся внедрять CI/CD, чтобы быстрее выпускать новые функции и поддерживать высокое качество программного обеспечения.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Непрерывное развертывание CI/CD делает процесс разработки более эффективным, автоматизированным и надежным. Благодаря этому подходу команды могут быстрее реагировать на изменения, улучшать продукты и создавать современные цифровые решения.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Create Beautiful Presentations with Markdown</title>

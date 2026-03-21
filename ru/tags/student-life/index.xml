@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Life | </title>
+    <link>https://jamal-rudn.github.io/ru/tags/student-life/</link>
+      <atom:link href="https://jamal-rudn.github.io/ru/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Life</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jamal-rudn.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Student Life</title>
+      <link>https://jamal-rudn.github.io/ru/tags/student-life/</link>
+    </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://jamal-rudn.github.io/ru/blog/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете была насыщенной и продуктивной. Я продолжил изучать дисциплины по направлению &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt; и получил много полезных знаний, которые помогут в будущей профессии.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях обсуждали, как &lt;strong&gt;информационные технологии используются в управлении бизнесом&lt;/strong&gt; и какие цифровые решения помогают компаниям развиваться быстрее.&lt;/li&gt;
+&lt;li&gt;📊 На практических занятиях разбирали &lt;strong&gt;основы анализа данных&lt;/strong&gt; и учились работать с информацией для принятия управленческих решений.&lt;/li&gt;
+&lt;li&gt;💻 Продолжил практиковаться в &lt;strong&gt;программировании&lt;/strong&gt;, выполняя небольшие задания и закрепляя базовые принципы написания кода.&lt;/li&gt;
+&lt;li&gt;📚 Изучал тему &lt;strong&gt;информационных систем в организациях&lt;/strong&gt; и понял, насколько важны такие системы для эффективной работы бизнеса.&lt;/li&gt;
+&lt;li&gt;🤝 Работал над учебными заданиями вместе с одногруппниками — командная работа помогает быстрее находить решения и лучше понимать материал.&lt;/li&gt;
+&lt;li&gt;⚽ Постарался уделить время отдыху и спорту, чтобы поддерживать баланс между учебой и личной жизнью.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая учебная неделя дает новые знания и опыт. Постепенно я лучше понимаю сферу информационных технологий и их роль в современном бизнесе. Это мотивирует продолжать учиться и развивать свои навыки.&lt;/p&gt;
+&lt;p&gt;А как прошла ваша неделя? 😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
