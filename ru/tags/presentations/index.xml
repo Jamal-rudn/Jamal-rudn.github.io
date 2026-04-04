@@ -5,12 +5,32 @@
     <link>https://jamal-rudn.github.io/ru/tags/presentations/</link>
       <atom:link href="https://jamal-rudn.github.io/ru/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jamal-rudn.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Presentations</title>
       <link>https://jamal-rudn.github.io/ru/tags/presentations/</link>
     </image>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://jamal-rudn.github.io/ru/publications/03/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла под знаком развития навыков &lt;strong&gt;создания презентаций&lt;/strong&gt; — важного инструмента для представления идей, проектов и аналитики.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На занятиях изучал, как правильно &lt;strong&gt;структурировать информацию&lt;/strong&gt;, чтобы донести ключевые мысли до аудитории.&lt;/li&gt;
+&lt;li&gt;🎨 Осваивал принципы &lt;strong&gt;визуального дизайна слайдов&lt;/strong&gt; — минимализм, читаемость и акценты на главном.&lt;/li&gt;
+&lt;li&gt;📊 Работал с &lt;strong&gt;визуализацией данных&lt;/strong&gt;, учился превращать цифры в понятные графики и диаграммы.&lt;/li&gt;
+&lt;li&gt;💻 Практиковался в создании презентаций, уделяя внимание логике повествования и последовательности подачи материала.&lt;/li&gt;
+&lt;li&gt;🗣 Развивал навыки &lt;strong&gt;публичных выступлений&lt;/strong&gt;, так как хорошая презентация — это не только слайды, но и подача.&lt;/li&gt;
+&lt;li&gt;🤝 Обсуждал работы с одногруппниками, получал обратную связь и улучшал свои проекты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Теперь становится очевидно, что эффективная презентация — это сочетание содержания, дизайна и уверенного выступления. Этот навык играет ключевую роль как в учёбе, так и в будущей профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;А вы любите делать презентации или это для вас вызов? 😊&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Create Beautiful Presentations with Markdown</title>
