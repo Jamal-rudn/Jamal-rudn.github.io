@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | </title>
+    <link>https://jamal-rudn.github.io/ru/tags/programming/</link>
+      <atom:link href="https://jamal-rudn.github.io/ru/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jamal-rudn.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Programming</title>
+      <link>https://jamal-rudn.github.io/ru/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://jamal-rudn.github.io/ru/publications/04/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🧪 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях — от анализа данных до моделирования сложных систем. За этой областью стоит целый набор языков, каждый из которых решает свои задачи и применяется в разных дисциплинах.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных инструментов благодаря своей универсальности и большому количеству библиотек для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — широко используется в статистике и аналитике, особенно там, где важна глубокая работа с данными и построение моделей.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — применяется для численных вычислений, инженерных задач и прототипирования алгоритмов.&lt;/li&gt;
+&lt;li&gt;🔬 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, который сочетает высокую производительность с удобством написания кода, особенно в научных расчетах.&lt;/li&gt;
+&lt;li&gt;💡 &lt;strong&gt;C/C++&lt;/strong&gt; — используются там, где критична скорость выполнения, например, в физическом моделировании или обработке больших массивов данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Особенность научного программирования — это не только написание кода, но и умение правильно интерпретировать результаты, строить модели и проверять гипотезы. Здесь важно сочетание математического мышления, алгоритмического подхода и понимания предметной области.&lt;/p&gt;
+&lt;p&gt;С развитием технологий роль таких языков только усиливается: они становятся основой для исследований в области искусственного интеллекта, биоинформатики, экономики и многих других сфер.&lt;/p&gt;
+&lt;p&gt;Какие языки используете вы в своих проектах? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

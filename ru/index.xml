@@ -169,6 +169,67 @@
     </item>
     
     <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://jamal-rudn.github.io/ru/projects/hugo/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт — это важный инструмент современного исследователя. Он помогает структурировать научную деятельность, делиться результатами и формировать профессиональный имидж. Одним из удобных решений для создания такого сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Hugo&lt;/strong&gt; — это быстрый генератор статических сайтов, который позволяет создавать легкие и производительные веб-страницы без сложной серверной логики.&lt;/li&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Academic (Wowchemy)&lt;/strong&gt; — тема для Hugo, ориентированная на ученых, преподавателей и студентов. Она уже содержит готовые шаблоны для публикаций, проектов, резюме и блога.&lt;/li&gt;
+&lt;li&gt;🧩 Удобная структура: можно легко добавить разделы с &lt;strong&gt;публикациями, достижениями, опытом, курсами и проектами&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📝 Контент создается в формате Markdown, что упрощает написание и редактирование материалов.&lt;/li&gt;
+&lt;li&gt;🚀 Простое развертывание: сайт можно разместить на GitHub Pages или любом другом хостинге.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Такой сайт становится не просто визитной карточкой, а полноценной платформой для представления научной работы: статьи, выступления, данные исследований и даже учебные материалы можно собрать в одном месте.&lt;/p&gt;
+&lt;p&gt;Кроме того, наличие собственного сайта повышает видимость в научном сообществе и облегчает взаимодействие с коллегами, работодателями и студентами.&lt;/p&gt;
+&lt;p&gt;Создание сайта на Hugo Academic — это хороший шаг к развитию личного бренда в науке и IT.&lt;/p&gt;
+&lt;p&gt;А у вас уже есть персональный сайт? 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://jamal-rudn.github.io/ru/publications/04/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🧪 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Научное программирование играет ключевую роль в современных исследованиях — от анализа данных до моделирования сложных систем. За этой областью стоит целый набор языков, каждый из которых решает свои задачи и применяется в разных дисциплинах.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных инструментов благодаря своей универсальности и большому количеству библиотек для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — широко используется в статистике и аналитике, особенно там, где важна глубокая работа с данными и построение моделей.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — применяется для численных вычислений, инженерных задач и прототипирования алгоритмов.&lt;/li&gt;
+&lt;li&gt;🔬 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, который сочетает высокую производительность с удобством написания кода, особенно в научных расчетах.&lt;/li&gt;
+&lt;li&gt;💡 &lt;strong&gt;C/C++&lt;/strong&gt; — используются там, где критична скорость выполнения, например, в физическом моделировании или обработке больших массивов данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Особенность научного программирования — это не только написание кода, но и умение правильно интерпретировать результаты, строить модели и проверять гипотезы. Здесь важно сочетание математического мышления, алгоритмического подхода и понимания предметной области.&lt;/p&gt;
+&lt;p&gt;С развитием технологий роль таких языков только усиливается: они становятся основой для исследований в области искусственного интеллекта, биоинформатики, экономики и многих других сфер.&lt;/p&gt;
+&lt;p&gt;Какие языки используете вы в своих проектах? 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://jamal-rudn.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла в активном темпе и принесла много полезного опыта. Продолжаю углубляться в направление &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt;, связывая теорию с практическими задачами.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях сосредоточились на &lt;strong&gt;цифровой трансформации бизнеса&lt;/strong&gt; и роли IT-решений в стратегическом развитии компаний.&lt;/li&gt;
+&lt;li&gt;📊 На практике работал с &lt;strong&gt;визуализацией данных&lt;/strong&gt;, пробовал разные подходы к представлению информации для более наглядного анализа.&lt;/li&gt;
+&lt;li&gt;💻 Улучшал навыки в &lt;strong&gt;разработке&lt;/strong&gt;, уделяя внимание структуре проектов и оптимизации кода.&lt;/li&gt;
+&lt;li&gt;📚 Изучал &lt;strong&gt;методы интеграции информационных систем&lt;/strong&gt;, что помогает понять, как объединяются разные бизнес-процессы в единую экосистему.&lt;/li&gt;
+&lt;li&gt;🤝 Обсуждали учебные задачи в группе — такие взаимодействия помогают увидеть альтернативные подходы и расширить кругозор.&lt;/li&gt;
+&lt;li&gt;🚶‍♂️ Находил время для отдыха и прогулок, чтобы сохранять продуктивность и не перегружаться.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя показала, насколько важно не только изучать технологии, но и понимать их практическое применение в бизнесе. Это помогает выстраивать более осознанную траекторию развития.&lt;/p&gt;
+&lt;p&gt;А какие открытия были у вас на этой неделе? 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Моя учебная неделя</title>
       <link>https://jamal-rudn.github.io/ru/blog/03/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
@@ -783,30 +844,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://jamal-rudn.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jamal-rudn.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://jamal-rudn.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jamal-rudn.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://jamal-rudn.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://jamal-rudn.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>

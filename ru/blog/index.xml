@@ -5,12 +5,32 @@
     <link>https://jamal-rudn.github.io/ru/blog/</link>
       <atom:link href="https://jamal-rudn.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jamal-rudn.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://jamal-rudn.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Моя учебная неделя</title>
+      <link>https://jamal-rudn.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя прошла в активном темпе и принесла много полезного опыта. Продолжаю углубляться в направление &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt;, связывая теорию с практическими задачами.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях сосредоточились на &lt;strong&gt;цифровой трансформации бизнеса&lt;/strong&gt; и роли IT-решений в стратегическом развитии компаний.&lt;/li&gt;
+&lt;li&gt;📊 На практике работал с &lt;strong&gt;визуализацией данных&lt;/strong&gt;, пробовал разные подходы к представлению информации для более наглядного анализа.&lt;/li&gt;
+&lt;li&gt;💻 Улучшал навыки в &lt;strong&gt;разработке&lt;/strong&gt;, уделяя внимание структуре проектов и оптимизации кода.&lt;/li&gt;
+&lt;li&gt;📚 Изучал &lt;strong&gt;методы интеграции информационных систем&lt;/strong&gt;, что помогает понять, как объединяются разные бизнес-процессы в единую экосистему.&lt;/li&gt;
+&lt;li&gt;🤝 Обсуждали учебные задачи в группе — такие взаимодействия помогают увидеть альтернативные подходы и расширить кругозор.&lt;/li&gt;
+&lt;li&gt;🚶‍♂️ Находил время для отдыха и прогулок, чтобы сохранять продуктивность и не перегружаться.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя показала, насколько важно не только изучать технологии, но и понимать их практическое применение в бизнесе. Это помогает выстраивать более осознанную траекторию развития.&lt;/p&gt;
+&lt;p&gt;А какие открытия были у вас на этой неделе? 🙂&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя учебная неделя</title>

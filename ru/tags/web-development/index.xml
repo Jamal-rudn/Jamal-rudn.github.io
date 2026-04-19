@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development | </title>
+    <link>https://jamal-rudn.github.io/ru/tags/web-development/</link>
+      <atom:link href="https://jamal-rudn.github.io/ru/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Development</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jamal-rudn.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Web Development</title>
+      <link>https://jamal-rudn.github.io/ru/tags/web-development/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://jamal-rudn.github.io/ru/projects/hugo/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://jamal-rudn.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт — это важный инструмент современного исследователя. Он помогает структурировать научную деятельность, делиться результатами и формировать профессиональный имидж. Одним из удобных решений для создания такого сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ &lt;strong&gt;Hugo&lt;/strong&gt; — это быстрый генератор статических сайтов, который позволяет создавать легкие и производительные веб-страницы без сложной серверной логики.&lt;/li&gt;
+&lt;li&gt;🎓 &lt;strong&gt;Academic (Wowchemy)&lt;/strong&gt; — тема для Hugo, ориентированная на ученых, преподавателей и студентов. Она уже содержит готовые шаблоны для публикаций, проектов, резюме и блога.&lt;/li&gt;
+&lt;li&gt;🧩 Удобная структура: можно легко добавить разделы с &lt;strong&gt;публикациями, достижениями, опытом, курсами и проектами&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;📝 Контент создается в формате Markdown, что упрощает написание и редактирование материалов.&lt;/li&gt;
+&lt;li&gt;🚀 Простое развертывание: сайт можно разместить на GitHub Pages или любом другом хостинге.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Такой сайт становится не просто визитной карточкой, а полноценной платформой для представления научной работы: статьи, выступления, данные исследований и даже учебные материалы можно собрать в одном месте.&lt;/p&gt;
+&lt;p&gt;Кроме того, наличие собственного сайта повышает видимость в научном сообществе и облегчает взаимодействие с коллегами, работодателями и студентами.&lt;/p&gt;
+&lt;p&gt;Создание сайта на Hugo Academic — это хороший шаг к развитию личного бренда в науке и IT.&lt;/p&gt;
+&lt;p&gt;А у вас уже есть персональный сайт? 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
